@@ -6,7 +6,7 @@ title: Privacy Policy — Volume Vision
 # Privacy Policy
 
 **Volume Vision**
-Effective Date: May 2, 2026
+Effective Date: May 4, 2026
 
 ## Overview
 
@@ -18,7 +18,7 @@ All of the following remain entirely on your hardware:
 
 - RGB and LiDAR depth captures
 - Annotations (bounding boxes and polygon masks)
-- Trained machine learning models
+- Trained machine learning models and training history
 - Exported CoreML model files
 - App settings and preferences
 
@@ -56,4 +56,4 @@ If this policy changes, the updated version will be posted here with a revised e
 ## Contact
 
 Questions about this policy can be directed to:
-polehntim@gmail.com
+[GitHub Issues](https://github.com/polehntim-commits/volumevision-support/issues)
